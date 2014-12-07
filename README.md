@@ -25,4 +25,3 @@ christian otkjær, christian.otkjaer@gmail.com
 ## License
 
 SilverbackCircularCollectionViews is available under the MIT license. See the LICENSE file for more info.
-
