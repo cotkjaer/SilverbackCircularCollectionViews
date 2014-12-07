@@ -1,0 +1,8 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+
+target 'SilverbackCircularCollectionViews', :exclusive => true do
+  pod "SilverbackCircularCollectionViews", :path => "../"
+
+  
+end
